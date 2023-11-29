@@ -1,0 +1,16 @@
+advice-ads.s3.amazonaws.com
+advertising-api-eu.amazon.com
+browser.sentry-cdn.com
+app.getsentry.com
+ads-api.twitter.com
+widgets.pinterest.com
+ads-api.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
+udc.yahoo.com
+udcm.yahoo.com
+advertising.yahoo.com
+metrika.yandex.ru
+advertising.yandex.ru
+adtech.yahooinc.com
+tracking.rus.miui.com
