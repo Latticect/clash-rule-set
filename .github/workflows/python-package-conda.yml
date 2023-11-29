@@ -1,0 +1,51 @@
+name: Build rules files
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "55 23 * * *"
+  push:
+    branches:
+      - main
+env:
+  TZ: Asia/Shanghai
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: run py
+        run: python3 ./run.py
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add *.yaml
+          git commit -m "update by actions"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+
+      - name: Release and upload assets
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          release_name: ${{ env.RELEASE_NAME }}
+          tag: ${{ env.TAG_NAME }}
+          file_glob: true
+          file: ./*.yaml
