@@ -58,11 +58,9 @@ def write_to_file(text: str, file_name: str):
 
 
 if __name__ == '__main__':
-
-
     t = ""
     for i in ad_url:
-        t += get_domain(remove_comments(downlaod_clash_rule_set(i)))
+        t += "\n" + get_domain(remove_comments(downlaod_clash_rule_set(i)))
     t = '\n'.join(set(t.splitlines()))
     # print(t)
 
@@ -70,6 +68,8 @@ if __name__ == '__main__':
     data = yaml.safe_load(t2)
     data['payload'].extend(t.splitlines())
     data['payload'].remove('360.cn')
+    if '' in data['payload']:
+        data['payload'].remove('')
     # print(data['payload'])
     write_to_file(yaml.dump(data), 'Clash_Rule_Set_AntiAD.yaml')
 
@@ -80,4 +80,6 @@ if __name__ == '__main__':
     t2 = downlaod_clash_rule_set(white_master_rule)
     data = yaml.safe_load(t2)
     data['payload'].extend(t.splitlines())
+    if '' in data['payload']:
+        data['payload'].remove('')
     write_to_file(yaml.dump(data), 'Clash_Rule_Set_White.yaml')
