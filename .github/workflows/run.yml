@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      
 env:
   TZ: Asia/Shanghai
 jobs:
