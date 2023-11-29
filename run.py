@@ -4,7 +4,8 @@ import requests
 import yaml
 
 ad_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts',
-          'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts']
+          'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts',
+          'https://raw.githubusercontent.com/Latticect/clash-anti-ad-rule-set/main/add.txt']
 
 white_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/whitelist']
 
@@ -54,7 +55,11 @@ def write_to_file(text: str, file_name: str):
         f.write(text)
 
 
+
+
 if __name__ == '__main__':
+
+
     t = ""
     for i in ad_url:
         t += get_domain(remove_comments(downlaod_clash_rule_set(i)))
