@@ -14,3 +14,7 @@ metrika.yandex.ru
 advertising.yandex.ru
 adtech.yahooinc.com
 tracking.rus.miui.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+ck.ads.oppomobile.com
+grs.hicloud.com
