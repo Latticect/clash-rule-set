@@ -9,18 +9,18 @@ ad_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts',
 
 white_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/whitelist']
 
-# proxies = {
-#     "http": "http://localhost:7890",
-#     "https": "http://localhost:7890",
-# }
+proxies = {
+    "http": "http://localhost:7890",
+    "https": "http://localhost:7890",
+}
 
 ad_master_rule = "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml"
 white_master_rule = "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-for-clash.yaml"
 
 
 def downlaod_clash_rule_set(url: str):
-    # resp = requests.get(url, proxies=proxies)
-    resp = requests.get(url)
+    resp = requests.get(url, proxies=proxies)
+    # resp = requests.get(url)
     return resp.text
 
 
@@ -38,6 +38,8 @@ def get_domain(text: str):
     ip_pattern = r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\s+'
     cleaned_text = re.sub(ip_pattern, '', text, flags=re.MULTILINE)
     cleaned_text = re.sub(r'^white\s+', '', cleaned_text, flags=re.MULTILINE)
+    if(cleaned_text[-1]=='.'):
+        cleaned_text = cleaned_text[:-1]
     return cleaned_text.strip()
 
 
@@ -53,8 +55,6 @@ def write_to_file(text: str, file_name: str):
         # text文件头添加当前时间
         f.write(f"# 自动生成  {beijing_now.strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(text)
-
-
 
 
 if __name__ == '__main__':
