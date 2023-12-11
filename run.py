@@ -9,17 +9,14 @@ ad_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts',
 
 white_url = ['https://raw.githubusercontent.com/Goooler/1024_hosts/master/whitelist']
 
-proxies = {
-    "http": "http://localhost:7890",
-    "https": "http://localhost:7890",
-}
+
 
 ad_master_rule = "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml"
 white_master_rule = "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-for-clash.yaml"
 
 
 def downlaod_clash_rule_set(url: str):
-    resp = requests.get(url, proxies=proxies)
+    resp = requests.get(url)
     # resp = requests.get(url)
     return resp.text
 
