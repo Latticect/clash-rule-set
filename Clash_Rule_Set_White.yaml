@@ -1,4 +1,4 @@
-# 自动生成  2024-01-15 08:32:22
+# 自动生成  2024-01-16 08:30:35
 payload:
 - +.cdn-thumb.fds.api.xiaomi.com
 - +.bce.baidu.com
@@ -461,15 +461,15 @@ payload:
 - +.techsmith.com
 - +.binaryage.com
 - +.wisecleaner.com
-- '*.myapp.com'
-- s.click.taobao.com
-- bit.ly
-- sh.st
-- url.cn
-- '*.app'
 - goo.gl
 - '*.ggpht.com'
 - t.cn
-- '*.flyme.cn'
-- cdn.*.qq.com
 - s.click.tmall.com
+- bit.ly
+- '*.flyme.cn'
+- url.cn
+- cdn.*.qq.com
+- '*.myapp.com'
+- '*.app'
+- sh.st
+- s.click.taobao.com
