@@ -36,3 +36,4 @@ metrics.icloud.com
 api-adservices.apple.com
 notes-analytics-events.apple.com
 weather-analytics-events.apple.com
+an.facebook.com
