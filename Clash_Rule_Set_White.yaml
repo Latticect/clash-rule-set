@@ -1,4 +1,4 @@
-# 更新时间：2024-01-20 13:48:16.593952+08:00
+# 更新时间：2024-01-21 08:33:52.891465+08:00
 
 payload:
 - +.ad.10010.com
@@ -6,9 +6,9 @@ payload:
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
-- +.ltzn.9377.com
 - +.ad-gone.com
 - +.adblock.adguard.com
+- +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.adlink.wf
@@ -20,18 +20,22 @@ payload:
 - +.adv.bloop.info
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
+- +.chaturbate.com
 - +.image.coolapk.com
 - +.cdn.datatables.net
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
+- +.developers.google.com
 - +.gotunnel.org
+- +.www.gsxt.gov.cn
 - +.download.jumpw.com
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
 - +.mi.cn
+- +.mhc-ajax-eu.myhomescreen.tv
 - +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
@@ -41,13 +45,13 @@ payload:
 - +.onl.bz
 - +.s.optnx.com
 - +.ad.ourgame.com
+- +.infolink.pavv.co.kr
 - +.pgpartner.com
 - +.adcdn.pingan.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.beta.bugly.qq.com
-- +.minigame.qq.com
 - +.vd.l.qq.com
 - +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
@@ -56,6 +60,7 @@ payload:
 - +.speedtest.net
 - +.swjoy.com
 - +.phs.tanx.com
+- +.g.tbcdn.cn
 - +.tuhu.cn
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
