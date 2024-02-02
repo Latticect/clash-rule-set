@@ -1,17 +1,14 @@
-# 更新时间：2024-02-01 08:30:04.755507+08:00
+# 更新时间：2024-02-02 08:28:56.494109+08:00
 
 payload:
 - +.ad.10010.com
-- +.bnet.163.com
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
-- +.ltzn.9377.com
 - +.ad-gone.com
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.local.adguard.org
 - +.adlink.wf
 - +.adobelogin.com
 - +.captcha.su.baidu.com
@@ -21,6 +18,7 @@ payload:
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.image.coolapk.com
+- +.cdn.datatables.net
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.ecitic.com
@@ -41,16 +39,15 @@ payload:
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.s.optnx.com
-- +.ad.ourgame.com
-- +.infolink.pavv.co.kr
 - +.pgpartner.com
 - +.adcdn.pingan.com
-- +.pics.porn300.com
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
+- +.beta.bugly.qq.com
 - +.minigame.qq.com
 - +.vd.l.qq.com
 - +.hbbtv.redbutton.de
+- +.feed.mix.sina.com.cn
 - +.static.softlayer.com
 - +.api-secure.solvemedia.com
 - +.speedtest.net
@@ -59,9 +56,8 @@ payload:
 - +.g.tbcdn.cn
 - +.tuhu.cn
 - +.api.ads.tvb.com
-- +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
-- +.s1.wp.com
 - +.xmxing.net
+- +.zbj.com
 - +.hbbtv.zdf.de
 - +.app-advertise.zhihuishu.com
