@@ -1,8 +1,9 @@
-# 更新时间：2024-02-03 08:28:46.435782+08:00
+# 更新时间：2024-02-04 08:31:28.701504+08:00
 
 payload:
 - +.ad.10010.com
 - +.bnet.163.com
+- +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.ltzn.9377.com
@@ -14,6 +15,7 @@ payload:
 - +.adlink.wf
 - +.adobelogin.com
 - +.captcha.su.baidu.com
+- +.lemon.baidu.com
 - +.battle.net
 - +.buyad.bi-xenon.cn
 - +.adv.bloop.info
@@ -22,7 +24,7 @@ payload:
 - +.chaturbate.com
 - +.image.coolapk.com
 - +.cdn.datatables.net
-- +.banner.dna.fi
+- +.redirect.disqus.com
 - +.ecitic.com
 - +.login.gaijin.net
 - +.developers.google.com
@@ -37,7 +39,6 @@ payload:
 - +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
-- +.webstatic.nero.com
 - +.nwolb.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
@@ -47,12 +48,10 @@ payload:
 - +.pgpartner.com
 - +.adcdn.pingan.com
 - +.pics.porn300.com
-- +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.beta.bugly.qq.com
 - +.minigame.qq.com
 - +.vd.l.qq.com
-- +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
 - +.static.softlayer.com
 - +.api-secure.solvemedia.com
@@ -60,9 +59,7 @@ payload:
 - +.swjoy.com
 - +.phs.tanx.com
 - +.g.tbcdn.cn
-- +.tuhu.cn
 - +.api.ads.tvb.com
-- +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
 - +.s1.wp.com
 - +.xmxing.net
