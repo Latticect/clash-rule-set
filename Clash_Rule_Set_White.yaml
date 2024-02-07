@@ -1,4 +1,4 @@
-# 更新时间：2024-02-06 08:28:21.606074+08:00
+# 更新时间：2024-02-07 08:27:22.585813+08:00
 
 payload:
 - +.ad.10010.com
@@ -6,15 +6,18 @@ payload:
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
+- +.ltzn.9377.com
 - +.ad-gone.com
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
-- +.adobelogin.com
+- +.adlink.wf
 - +.captcha.su.baidu.com
 - +.lemon.baidu.com
 - +.battle.net
+- +.buyad.bi-xenon.cn
+- +.adv.bloop.info
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
@@ -27,14 +30,13 @@ payload:
 - +.developers.google.com
 - +.www.gsxt.gov.cn
 - +.download.jumpw.com
-- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
 - +.mi.cn
 - +.mhc-ajax-eu.myhomescreen.tv
 - +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
-- +.webstatic.nero.com
+- +.mhc-xpana-eu-s2.myhomescreen.tv
 - +.nwolb.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
@@ -55,10 +57,12 @@ payload:
 - +.speedtest.net
 - +.swjoy.com
 - +.phs.tanx.com
-- +.g.tbcdn.cn
+- +.tuhu.cn
+- +.api.ads.tvb.com
 - +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
 - +.s1.wp.com
+- +.xmxing.net
 - +.zbj.com
 - +.hbbtv.zdf.de
 - +.app-advertise.zhihuishu.com
