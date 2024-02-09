@@ -1,8 +1,6 @@
-# 更新时间：2024-02-08 08:28:34.980347+08:00
+# 更新时间：2024-02-09 08:28:07.723085+08:00
 
 payload:
-- +.ad.10010.com
-- +.bnet.163.com
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
@@ -11,6 +9,8 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.local.adguard.org
+- +.adlink.wf
 - +.adobelogin.com
 - +.captcha.su.baidu.com
 - +.lemon.baidu.com
@@ -23,10 +23,13 @@ payload:
 - +.image.coolapk.com
 - +.cdn.datatables.net
 - +.redirect.disqus.com
+- +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
 - +.developers.google.com
 - +.gotunnel.org
+- +.www.gsxt.gov.cn
+- +.download.jumpw.com
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
@@ -44,23 +47,20 @@ payload:
 - +.infolink.pavv.co.kr
 - +.pgpartner.com
 - +.adcdn.pingan.com
+- +.pics.porn300.com
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.beta.bugly.qq.com
-- +.minigame.qq.com
-- +.vd.l.qq.com
 - +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
 - +.static.softlayer.com
 - +.api-secure.solvemedia.com
 - +.speedtest.net
-- +.swjoy.com
 - +.phs.tanx.com
 - +.g.tbcdn.cn
-- +.tuhu.cn
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.browser.cloud.ucweb.com
+- +.s1.wp.com
 - +.xmxing.net
 - +.zbj.com
 - +.hbbtv.zdf.de
