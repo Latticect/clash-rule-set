@@ -1,10 +1,11 @@
-# 更新时间：2024-02-14 08:28:28.216625+08:00
+# 更新时间：2024-02-15 08:28:28.286728+08:00
 
 payload:
-- +.ad.10010.com
 - +.bnet.163.com
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
+- +.vitacost.122.2o7.net
+- +.ltzn.9377.com
 - +.ad-gone.com
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -12,7 +13,7 @@ payload:
 - +.local.adguard.org
 - +.adlink.wf
 - +.adobelogin.com
-- +.lemon.baidu.com
+- +.captcha.su.baidu.com
 - +.battle.net
 - +.buyad.bi-xenon.cn
 - +.adv.bloop.info
@@ -25,8 +26,6 @@ payload:
 - +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
-- +.developers.google.com
-- +.gotunnel.org
 - +.www.gsxt.gov.cn
 - +.download.jumpw.com
 - +.ad.kazakinfo.com
@@ -35,7 +34,6 @@ payload:
 - +.mi.cn
 - +.mhc-ajax-eu.myhomescreen.tv
 - +.mhc-ajax-eu-s2.myhomescreen.tv
-- +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
 - +.webstatic.nero.com
 - +.nwolb.com
@@ -44,18 +42,21 @@ payload:
 - +.s.optnx.com
 - +.infolink.pavv.co.kr
 - +.pgpartner.com
+- +.adcdn.pingan.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
-- +.minigame.qq.com
+- +.beta.bugly.qq.com
 - +.vd.l.qq.com
 - +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
 - +.static.softlayer.com
 - +.api-secure.solvemedia.com
+- +.speedtest.net
+- +.swjoy.com
 - +.phs.tanx.com
 - +.g.tbcdn.cn
-- +.api.ads.tvb.com
+- +.tuhu.cn
 - +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
 - +.s1.wp.com
