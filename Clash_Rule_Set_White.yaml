@@ -1,6 +1,7 @@
-# 更新时间：2024-02-15 08:28:28.286728+08:00
+# 更新时间：2024-02-16 08:28:02.137134+08:00
 
 payload:
+- +.ad.10010.com
 - +.bnet.163.com
 - +.alllaw.112.2o7.net
 - +.puma.112.2o7.net
@@ -14,6 +15,7 @@ payload:
 - +.adlink.wf
 - +.adobelogin.com
 - +.captcha.su.baidu.com
+- +.lemon.baidu.com
 - +.battle.net
 - +.buyad.bi-xenon.cn
 - +.adv.bloop.info
@@ -26,9 +28,10 @@ payload:
 - +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
+- +.developers.google.com
+- +.gotunnel.org
 - +.www.gsxt.gov.cn
 - +.download.jumpw.com
-- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
 - +.mi.cn
@@ -38,8 +41,7 @@ payload:
 - +.webstatic.nero.com
 - +.nwolb.com
 - +.sgqcvfjvr.onet.pl
-- +.onl.bz
-- +.s.optnx.com
+- +.ad.ourgame.com
 - +.infolink.pavv.co.kr
 - +.pgpartner.com
 - +.adcdn.pingan.com
@@ -47,18 +49,18 @@ payload:
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.beta.bugly.qq.com
+- +.minigame.qq.com
 - +.vd.l.qq.com
 - +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
 - +.static.softlayer.com
 - +.api-secure.solvemedia.com
 - +.speedtest.net
-- +.swjoy.com
 - +.phs.tanx.com
 - +.g.tbcdn.cn
 - +.tuhu.cn
+- +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.browser.cloud.ucweb.com
 - +.s1.wp.com
 - +.xmxing.net
 - +.zbj.com
