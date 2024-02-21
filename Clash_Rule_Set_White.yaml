@@ -1,4 +1,4 @@
-# 更新时间：2024-02-20 08:28:04.230023+08:00
+# 更新时间：2024-02-21 08:28:26.861850+08:00
 
 payload:
 - +.ad.10010.com
@@ -12,28 +12,27 @@ payload:
 - +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
+- +.adlink.wf
 - +.adobelogin.com
 - +.captcha.su.baidu.com
-- +.lemon.baidu.com
 - +.battle.net
 - +.buyad.bi-xenon.cn
-- +.adv.bloop.info
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.image.coolapk.com
 - +.cdn.datatables.net
-- +.redirect.disqus.com
 - +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
 - +.developers.google.com
+- +.gotunnel.org
 - +.www.gsxt.gov.cn
 - +.download.jumpw.com
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
-- +.mhc-ajax-eu.myhomescreen.tv
+- +.mi.cn
 - +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
@@ -50,6 +49,7 @@ payload:
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.beta.bugly.qq.com
+- +.minigame.qq.com
 - +.vd.l.qq.com
 - +.hbbtv.redbutton.de
 - +.feed.mix.sina.com.cn
@@ -57,9 +57,9 @@ payload:
 - +.api-secure.solvemedia.com
 - +.speedtest.net
 - +.swjoy.com
-- +.phs.tanx.com
 - +.g.tbcdn.cn
 - +.tuhu.cn
+- +.api.ads.tvb.com
 - +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
 - +.s1.wp.com
