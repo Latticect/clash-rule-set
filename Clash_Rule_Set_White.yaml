@@ -1,4 +1,4 @@
-# 更新时间：2024-02-22 08:28:39.036956+08:00
+# 更新时间：2024-02-23 08:28:13.835953+08:00
 
 payload:
 - +.ad.10010.com
@@ -11,22 +11,20 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.local.adguard.org
 - +.adlink.wf
-- +.adobelogin.com
 - +.captcha.su.baidu.com
 - +.lemon.baidu.com
 - +.battle.net
 - +.buyad.bi-xenon.cn
 - +.adv.bloop.info
-- +.cbsi.map.fastly.net
-- +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
-- +.image.coolapk.com
 - +.cdn.datatables.net
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.ecitic.com
 - +.login.gaijin.net
+- +.developers.google.com
 - +.gotunnel.org
 - +.www.gsxt.gov.cn
 - +.download.jumpw.com
@@ -35,15 +33,16 @@ payload:
 - +.admin.mailchimp.com
 - +.mi.cn
 - +.mhc-ajax-eu.myhomescreen.tv
+- +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
 - +.webstatic.nero.com
 - +.nwolb.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
+- +.s.optnx.com
 - +.ad.ourgame.com
 - +.infolink.pavv.co.kr
-- +.pgpartner.com
 - +.adcdn.pingan.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
@@ -59,10 +58,10 @@ payload:
 - +.swjoy.com
 - +.phs.tanx.com
 - +.g.tbcdn.cn
-- +.tuhu.cn
+- +.api.ads.tvb.com
 - +.img.ads.tvb.com
 - +.browser.cloud.ucweb.com
-- +.s1.wp.com
+- +.xmxing.net
 - +.zbj.com
 - +.hbbtv.zdf.de
 - +.app-advertise.zhihuishu.com
