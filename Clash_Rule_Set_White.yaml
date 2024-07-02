@@ -1,4 +1,4 @@
-# 更新时间：2024-07-01 08:37:38.463052+08:00
+# 更新时间：2024-07-02 08:32:41.473303+08:00
 
 payload:
 - +.ad.10010.com
@@ -20,15 +20,18 @@ payload:
 - +.cdn.datatables.net
 - +.redirect.disqus.com
 - +.banner.dna.fi
+- +.wan.douyu.com
 - +.login.gaijin.net
 - +.developers.google.com
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.admin.mailchimp.com
+- +.manwa.me
 - +.mhc-ajax-eu.myhomescreen.tv
 - +.mhc-ajax-eu-s2.myhomescreen.tv
 - +.mhc-xpana-eu.myhomescreen.tv
 - +.mhc-xpana-eu-s2.myhomescreen.tv
+- +.myqqjd.com
 - +.webstatic.nero.com
 - +.nwolb.com
 - +.sgqcvfjvr.onet.pl
@@ -42,6 +45,7 @@ payload:
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
 - +.hbbtv.redbutton.de
+- +.sobot.com
 - +.static.softlayer.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
