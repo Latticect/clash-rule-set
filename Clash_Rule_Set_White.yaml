@@ -1,4 +1,4 @@
-# 更新时间：2024-10-16 08:38:46.944322+08:00
+# 更新时间：2024-10-17 08:38:30.397502+08:00
 
 payload:
 - +.ad.10010.com
@@ -107,7 +107,6 @@ payload:
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
-- +.sponsor.nitropay.com
 - +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
 - +.nwolb.com
@@ -127,7 +126,6 @@ payload:
 - +.adcdn.pingan.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
-- +.email.procook.co.uk
 - +.hbbtv.prosieben.de
 - +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
@@ -153,13 +151,10 @@ payload:
 - +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
-- +.ads.tdbank.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
-- +.thumbnail.thench.net
 - +.obituaries.therecord.com
 - +.catchup.thisisdax.com
-- +.tlaol.com
 - +.redir.tradedoubler.com
 - +.click.trafficguard.ai
 - +.api.ads.tvb.com
