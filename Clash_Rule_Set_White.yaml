@@ -1,4 +1,4 @@
-# 更新时间：2024-11-22 08:41:29.102481+08:00
+# 更新时间：2024-11-23 08:39:45.191321+08:00
 
 payload:
 - +.ad.10010.com
@@ -16,6 +16,7 @@ payload:
 - +.adlink.wf
 - +.adobelogin.com
 - +.feed.adrelayer.com
+- +.guce.advertising.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
@@ -124,7 +125,6 @@ payload:
 - +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
-- +.adcdn.pingan.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
 - +.hbbtv.prosieben.de
