@@ -1,4 +1,4 @@
-# 更新时间：2025-01-27 08:39:39.756263+08:00
+# 更新时间：2025-01-28 08:38:46.634133+08:00
 
 payload:
 - +.ad.10010.com
@@ -29,6 +29,7 @@ payload:
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
+- +.rd.bizrate.com
 - +.adv.bloop.info
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
@@ -151,6 +152,7 @@ payload:
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
+- +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
