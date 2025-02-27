@@ -1,4 +1,4 @@
-# 更新时间：2025-02-26 08:40:07.238839+08:00
+# 更新时间：2025-02-27 08:40:12.756699+08:00
 
 payload:
 - +.ad.10010.com
@@ -24,6 +24,7 @@ payload:
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
+- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
