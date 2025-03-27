@@ -1,4 +1,4 @@
-# 更新时间：2025-03-26 08:41:58.843972+08:00
+# 更新时间：2025-03-27 08:42:07.542457+08:00
 
 payload:
 - +.ad.10010.com
@@ -103,10 +103,6 @@ payload:
 - +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
-- +.mhc-ajax-eu.myhomescreen.tv
-- +.mhc-ajax-eu-s2.myhomescreen.tv
-- +.mhc-xpana-eu.myhomescreen.tv
-- +.mhc-xpana-eu-s2.myhomescreen.tv
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
@@ -125,7 +121,6 @@ payload:
 - +.s.optnx.com
 - +.ad.ourgame.com
 - +.redir.ownpage.fr
-- +.infolink.pavv.co.kr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
@@ -133,12 +128,10 @@ payload:
 - +.pgpartner.com
 - +.pics.porn300.com
 - +.privat24.privatbank.ua
-- +.hbbtv.prosieben.de
 - +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.tr.rdrtr.com
-- +.hbbtv.redbutton.de
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
@@ -176,5 +169,4 @@ payload:
 - +.anwb.webpower.eu
 - +.s1.wp.com
 - +.redirect.appmetrica.yandex.com
-- +.hbbtv.zdf.de
 - +.app-advertise.zhihuishu.com
