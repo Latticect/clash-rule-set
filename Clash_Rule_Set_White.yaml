@@ -1,9 +1,10 @@
-# 更新时间：2025-04-23 08:43:33.007999+08:00
+# 更新时间：2025-04-24 08:43:34.352151+08:00
 
 payload:
 - +.ad.10010.com
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
+- +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
@@ -118,7 +119,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -143,6 +143,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
