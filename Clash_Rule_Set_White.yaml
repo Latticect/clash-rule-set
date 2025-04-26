@@ -1,4 +1,4 @@
-# 更新时间：2025-04-25 08:43:50.180345+08:00
+# 更新时间：2025-04-26 08:42:37.555036+08:00
 
 payload:
 - +.ad.10010.com
@@ -141,8 +141,10 @@ payload:
 - +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
+- +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
@@ -151,6 +153,7 @@ payload:
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
+- +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.catchup.thisisdax.com
 - +.click.trafficguard.ai
