@@ -1,4 +1,4 @@
-# 更新时间：2025-05-02 08:44:23.720545+08:00
+# 更新时间：2025-05-03 08:43:02.041722+08:00
 
 payload:
 - +.ad.10010.com
@@ -10,6 +10,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
 - +.adlink.wf
