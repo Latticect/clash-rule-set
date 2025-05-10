@@ -1,4 +1,4 @@
-# 更新时间：2025-05-09 08:44:46.811321+08:00
+# 更新时间：2025-05-10 08:42:42.724589+08:00
 
 payload:
 - +.ad.10010.com
@@ -12,7 +12,6 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.adlink.wf
 - +.adobelogin.com
 - +.feed.adrelayer.com
@@ -121,6 +120,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -139,7 +139,6 @@ payload:
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
-- +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
