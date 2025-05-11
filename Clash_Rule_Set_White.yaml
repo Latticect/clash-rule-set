@@ -1,4 +1,4 @@
-# 更新时间：2025-05-10 08:42:42.724589+08:00
+# 更新时间：2025-05-11 08:49:35.099251+08:00
 
 payload:
 - +.ad.10010.com
@@ -12,6 +12,7 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.adlink.wf
 - +.adobelogin.com
 - +.feed.adrelayer.com
@@ -139,6 +140,7 @@ payload:
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
+- +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
