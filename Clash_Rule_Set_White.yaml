@@ -1,4 +1,4 @@
-# 更新时间：2025-05-18 08:50:24.669682+08:00
+# 更新时间：2025-05-19 08:49:17.410106+08:00
 
 payload:
 - +.ad.10010.com
@@ -12,6 +12,7 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.adlink.wf
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
@@ -60,6 +61,7 @@ payload:
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
+- +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
@@ -67,7 +69,6 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
