@@ -1,4 +1,4 @@
-# 更新时间：2025-05-22 08:45:04.460399+08:00
+# 更新时间：2025-05-23 08:45:28.273815+08:00
 
 payload:
 - +.ad.10010.com
@@ -91,6 +91,7 @@ payload:
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
+- +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
@@ -159,8 +160,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.clickattr.wayup.com
