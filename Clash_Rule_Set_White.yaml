@@ -1,7 +1,6 @@
-# 更新时间：2025-05-23 08:45:28.273815+08:00
+# 更新时间：2025-05-24 08:43:38.136398+08:00
 
 payload:
-- +.ad.10010.com
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
@@ -88,7 +87,6 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
-- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
@@ -144,7 +142,6 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
@@ -160,6 +157,8 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.clickattr.wayup.com
