@@ -1,6 +1,7 @@
-# 更新时间：2025-05-24 08:43:38.136398+08:00
+# 更新时间：2025-05-25 08:51:48.349890+08:00
 
 payload:
+- +.ad.10010.com
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
@@ -48,7 +49,6 @@ payload:
 - +.acs-m.daraz.pk
 - +.cdn.datatables.net
 - +.sbs.demdex.net
-- +.media-consumer365.desigual.com
 - +.refer.discover.com
 - +.redirect.disqus.com
 - +.banner.dna.fi
@@ -59,7 +59,6 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.email.elitedangerous.com
@@ -68,7 +67,6 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -87,6 +85,7 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
+- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
@@ -142,6 +141,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
