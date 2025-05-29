@@ -1,4 +1,4 @@
-# 更新时间：2025-05-28 08:45:54.222338+08:00
+# 更新时间：2025-05-29 08:46:03.482785+08:00
 
 payload:
 - +.ad.10010.com
@@ -20,8 +20,10 @@ payload:
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
+- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
+- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -34,9 +36,11 @@ payload:
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.cindyholbrook.lpages.co
+- +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
+- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
@@ -61,6 +65,7 @@ payload:
 - +.f-gear.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
+- +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
@@ -143,6 +148,7 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
+- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -157,6 +163,7 @@ payload:
 - +.vcentry3.valuecommerce.ne.jp
 - +.goto.walmart.com
 - +.omniture.walmart.com
+- +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
 - +.s1.wp.com
