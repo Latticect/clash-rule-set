@@ -1,4 +1,4 @@
-# 更新时间：2025-06-02 08:49:29.833363+08:00
+# 更新时间：2025-06-03 08:47:23.924368+08:00
 
 payload:
 - +.ad.10010.com
@@ -120,7 +120,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -144,6 +143,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
@@ -153,6 +153,7 @@ payload:
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
+- +.thumbnail.thench.net
 - +.obituaries.therecord.com
 - +.catchup.thisisdax.com
 - +.click.trafficguard.ai
