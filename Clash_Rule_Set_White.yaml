@@ -1,4 +1,4 @@
-# 更新时间：2025-06-03 08:47:23.924368+08:00
+# 更新时间：2025-06-04 08:46:54.526210+08:00
 
 payload:
 - +.ad.10010.com
@@ -12,7 +12,6 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.adlink.wf
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
@@ -74,7 +73,6 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -108,7 +106,6 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
