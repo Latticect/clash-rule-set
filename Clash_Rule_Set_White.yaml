@@ -1,4 +1,4 @@
-# 更新时间：2025-06-05 08:46:13.941081+08:00
+# 更新时间：2025-06-06 08:45:48.840657+08:00
 
 payload:
 - +.ad.10010.com
@@ -8,6 +8,7 @@ payload:
 - +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
+- +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
@@ -26,6 +27,7 @@ payload:
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
+- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
@@ -67,10 +69,10 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
+- +.links.getblueshift.com
 - +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
@@ -92,12 +94,14 @@ payload:
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
+- +.linka.page
 - +.logentries.com
 - +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
 - +.action.metaffiliation.com
 - +.log.mmstat.com
+- +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
@@ -142,10 +146,12 @@ payload:
 - +.static.softlayer.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
+- +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
+- +.links.e.theatlantic.com
 - +.thumbnail.thench.net
 - +.obituaries.therecord.com
 - +.catchup.thisisdax.com
