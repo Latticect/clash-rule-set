@@ -1,4 +1,4 @@
-# 更新时间：2025-06-28 08:45:43.175204+08:00
+# 更新时间：2025-06-29 08:54:21.580489+08:00
 
 payload:
 - +.ad.10010.com
@@ -13,7 +13,6 @@ payload:
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
-- +.adlink.wf
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -155,6 +154,7 @@ payload:
 - +.links.e.theatlantic.com
 - +.thumbnail.thench.net
 - +.obituaries.therecord.com
+- +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
