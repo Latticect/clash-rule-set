@@ -1,4 +1,4 @@
-# 更新时间：2025-06-30 08:52:05.579150+08:00
+# 更新时间：2025-07-01 08:54:55.244048+08:00
 
 payload:
 - +.ad.10010.com
@@ -46,7 +46,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
 - +.refer.discover.com
@@ -56,6 +55,7 @@ payload:
 - +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
+- +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
@@ -67,6 +67,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -74,7 +75,6 @@ payload:
 - +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
-- +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
 - +.href.li
@@ -83,6 +83,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -116,7 +117,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -131,7 +131,6 @@ payload:
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
-- +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
 - +.go.scorptec.com.au
