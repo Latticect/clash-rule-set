@@ -1,4 +1,4 @@
-# 更新时间：2025-07-05 08:45:00.045121+08:00
+# 更新时间：2025-07-06 08:53:32.639657+08:00
 
 payload:
 - +.ad.10010.com
@@ -23,6 +23,7 @@ payload:
 - +.app.appsflyer.com
 - +.click.avs.io
 - +.awin1.com
+- +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
@@ -60,11 +61,13 @@ payload:
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
+- +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -115,6 +118,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
