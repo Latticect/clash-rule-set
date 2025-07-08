@@ -1,4 +1,4 @@
-# 更新时间：2025-07-07 08:52:29.796516+08:00
+# 更新时间：2025-07-08 08:47:40.707284+08:00
 
 payload:
 - +.ad.10010.com
@@ -8,7 +8,6 @@ payload:
 - +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
-- +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
@@ -43,6 +42,7 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
+- +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -88,7 +88,6 @@ payload:
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
-- +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
@@ -108,7 +107,6 @@ payload:
 - +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.infra-api.newrelic.com
-- +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
@@ -161,7 +159,6 @@ payload:
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
 - +.goto.walmart.com
-- +.omniture.walmart.com
 - +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
