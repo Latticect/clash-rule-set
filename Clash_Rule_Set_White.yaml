@@ -1,4 +1,4 @@
-# 更新时间：2025-08-10 08:55:29.398432+08:00
+# 更新时间：2025-08-11 08:53:37.581607+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -15,7 +15,6 @@ payload:
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.analytics.amplitude.com
-- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
 - +.artifactory.appodeal.com
@@ -48,6 +47,7 @@ payload:
 - +.acs-m.daraz.pk
 - +.cdn.datatables.net
 - +.sbs.demdex.net
+- +.media-consumer365.desigual.com
 - +.refer.discover.com
 - +.redirect.disqus.com
 - +.banner.dna.fi
@@ -119,7 +119,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
