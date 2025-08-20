@@ -1,4 +1,4 @@
-# 更新时间：2025-08-19 08:45:59.002995+08:00
+# 更新时间：2025-08-20 08:43:47.432809+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -30,6 +30,7 @@ payload:
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
+- +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
@@ -108,7 +109,6 @@ payload:
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
-- +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.infra-api.newrelic.com
@@ -134,7 +134,6 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.tr.rdrtr.com
 - +.remembering.ca
-- +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
