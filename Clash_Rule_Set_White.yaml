@@ -1,4 +1,4 @@
-# 更新时间：2025-08-22 08:44:32.855275+08:00
+# 更新时间：2025-08-23 08:42:30.417172+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -6,6 +6,7 @@ payload:
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
+- +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
@@ -14,7 +15,6 @@ payload:
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.analytics.amplitude.com
-- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
 - +.artifactory.appodeal.com
@@ -44,6 +44,8 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
+- +.acs-m.daraz.com.bd
+- +.acs-m.daraz.pk
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -53,7 +55,6 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
-- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
@@ -86,6 +87,7 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
+- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
@@ -118,6 +120,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
