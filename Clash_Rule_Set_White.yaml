@@ -1,4 +1,4 @@
-# 更新时间：2025-09-01 08:54:09.776754+08:00
+# 更新时间：2025-09-02 08:43:39.509504+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,11 +11,9 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.analytics.amplitude.com
-- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
 - +.artifactory.appodeal.com
@@ -56,7 +54,6 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
-- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
@@ -164,6 +161,7 @@ payload:
 - +.vcentry3.valuecommerce.ne.jp
 - +.goto.walmart.com
 - +.omniture.walmart.com
+- +.news.warhammer.com
 - +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
