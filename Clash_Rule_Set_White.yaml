@@ -1,4 +1,4 @@
-# 更新时间：2025-09-09 08:42:37.662846+08:00
+# 更新时间：2025-09-10 08:41:47.251820+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,6 +12,7 @@ payload:
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
+- +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
