@@ -1,4 +1,4 @@
-# 更新时间：2025-09-13 08:39:17.768787+08:00
+# 更新时间：2025-09-14 08:45:19.355508+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,6 +11,7 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.analytics.amplitude.com
@@ -33,7 +34,6 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
@@ -68,6 +68,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -120,6 +121,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -137,12 +139,12 @@ payload:
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
+- +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
