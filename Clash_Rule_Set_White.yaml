@@ -1,4 +1,4 @@
-# 更新时间：2025-09-27 08:40:49.075027+08:00
+# 更新时间：2025-09-28 08:48:35.060198+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -7,7 +7,6 @@ payload:
 - +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
-- +.download.adguard.com
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
@@ -60,7 +59,6 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.email.elitedangerous.com
@@ -122,6 +120,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
