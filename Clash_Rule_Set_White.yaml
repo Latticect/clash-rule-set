@@ -1,10 +1,9 @@
-# 更新时间：2025-10-12 08:44:34.798770+08:00
+# 更新时间：2025-10-13 08:46:24.472623+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -21,19 +20,16 @@ payload:
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
-- +.cdn.atmedia.hu
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
-- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
-- +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.cindyholbrook.lpages.co
@@ -49,7 +45,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
 - +.refer.discover.com
@@ -71,6 +66,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -78,7 +74,6 @@ payload:
 - +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
-- +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
 - +.href.li
@@ -158,7 +153,6 @@ payload:
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
-- +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
