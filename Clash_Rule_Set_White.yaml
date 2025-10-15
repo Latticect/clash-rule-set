@@ -1,4 +1,4 @@
-# 更新时间：2025-10-14 08:42:12.486492+08:00
+# 更新时间：2025-10-15 08:43:50.517953+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,6 +11,8 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
+- +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
@@ -74,6 +76,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
+- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
