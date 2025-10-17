@@ -1,4 +1,4 @@
-# 更新时间：2025-10-16 08:43:51.585932+08:00
+# 更新时间：2025-10-17 08:43:16.575277+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -15,7 +15,6 @@ payload:
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
-- +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
@@ -28,7 +27,6 @@ payload:
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
-- +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
@@ -69,6 +67,7 @@ payload:
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
+- +.gate.first-id.fr
 - +.home.focusatwill.com
 - +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
@@ -113,6 +112,7 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
@@ -125,6 +125,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -150,7 +151,6 @@ payload:
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
-- +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
