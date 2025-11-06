@@ -1,4 +1,4 @@
-# 更新时间：2025-11-05 08:46:51.510492+08:00
+# 更新时间：2025-11-06 08:45:20.669115+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -105,6 +105,7 @@ payload:
 - +.logentries.com
 - +.admin.mailchimp.com
 - +.manwa.me
+- +.taiga.maven.io
 - +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
@@ -153,7 +154,6 @@ payload:
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
-- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
@@ -166,7 +166,6 @@ payload:
 - +.img.ads.tvb.com
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
-- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
