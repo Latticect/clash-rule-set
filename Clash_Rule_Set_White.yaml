@@ -1,4 +1,4 @@
-# 更新时间：2025-11-06 08:45:20.669115+08:00
+# 更新时间：2025-11-07 08:45:36.264203+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,7 +11,6 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -76,7 +75,6 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -115,7 +113,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
@@ -125,6 +122,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -154,6 +152,7 @@ payload:
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
+- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
@@ -166,6 +165,7 @@ payload:
 - +.img.ads.tvb.com
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
+- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
