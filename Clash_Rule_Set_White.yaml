@@ -1,4 +1,4 @@
-# 更新时间：2025-11-07 08:45:36.264203+08:00
+# 更新时间：2025-11-09 08:49:20.734299+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,17 +11,16 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
-- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
-- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -41,7 +40,6 @@ payload:
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
-- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
@@ -66,7 +64,6 @@ payload:
 - +.f-gear.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
-- +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
@@ -75,6 +72,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
+- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -113,6 +111,7 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
@@ -122,11 +121,9 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -134,7 +131,6 @@ payload:
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
-- +.tr.rdrtr.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
@@ -151,7 +147,6 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
-- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -159,7 +154,6 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
-- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
@@ -168,7 +162,6 @@ payload:
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
-- +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
 - +.s1.wp.com
