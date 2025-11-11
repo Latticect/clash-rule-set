@@ -1,4 +1,4 @@
-# 更新时间：2025-11-10 08:49:33.383597+08:00
+# 更新时间：2025-11-11 08:46:42.350336+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,7 +9,9 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -69,7 +71,6 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -123,7 +124,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -135,6 +135,7 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
+- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
