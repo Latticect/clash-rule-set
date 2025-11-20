@@ -1,4 +1,4 @@
-# 更新时间：2025-11-19 08:46:10.847416+08:00
+# 更新时间：2025-11-20 08:44:45.019651+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,6 +12,7 @@ payload:
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
+- +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
@@ -124,6 +125,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -131,6 +133,7 @@ payload:
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
+- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -149,6 +152,7 @@ payload:
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
+- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
