@@ -1,4 +1,4 @@
-# 更新时间：2025-11-26 08:46:14.297255+08:00
+# 更新时间：2025-11-27 08:45:08.768256+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,15 +11,12 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
-- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
-- +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
 - +.click.avs.io
@@ -35,7 +32,6 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
@@ -56,7 +52,6 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
-- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -76,7 +71,6 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -92,12 +86,12 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
+- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.trk.ecomm.lenovo.com
-- +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
 - +.linka.page
@@ -150,7 +144,6 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
