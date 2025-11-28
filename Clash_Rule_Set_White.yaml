@@ -1,4 +1,4 @@
-# 更新时间：2025-11-27 08:45:08.768256+08:00
+# 更新时间：2025-11-28 08:44:31.571032+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,12 +11,15 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
+- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
+- +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
 - +.click.avs.io
@@ -32,6 +35,7 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
+- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
@@ -52,6 +56,7 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
+- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -66,7 +71,6 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -74,8 +78,6 @@ payload:
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
-- +.health.halodoc.com
-- +.hidive.com
 - +.href.li
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
@@ -92,6 +94,7 @@ payload:
 - +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.trk.ecomm.lenovo.com
+- +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
 - +.linka.page
@@ -106,9 +109,7 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
@@ -122,12 +123,10 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
-- +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
