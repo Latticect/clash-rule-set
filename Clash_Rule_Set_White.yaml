@@ -1,4 +1,4 @@
-# 更新时间：2025-11-29 08:44:30.678764+08:00
+# 更新时间：2025-11-30 08:53:27.958518+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -18,11 +18,9 @@ payload:
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
-- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
-- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -35,14 +33,12 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
-- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
@@ -154,7 +150,6 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
-- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -162,7 +157,6 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
-- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
