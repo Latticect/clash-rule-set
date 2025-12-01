@@ -1,4 +1,4 @@
-# 更新时间：2025-11-30 08:53:27.958518+08:00
+# 更新时间：2025-12-01 08:57:44.204237+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -18,9 +18,11 @@ payload:
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
+- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
+- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -33,12 +35,14 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
+- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
+- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
@@ -121,7 +125,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -129,7 +132,6 @@ payload:
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
-- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -147,9 +149,10 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.gs.statcounter.com
+- +.sobot.com
 - +.www.statcounter.com
 - +.link.sylikes.com
+- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -157,6 +160,7 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
+- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
