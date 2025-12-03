@@ -1,4 +1,4 @@
-# 更新时间：2025-12-02 08:48:04.164848+08:00
+# 更新时间：2025-12-03 08:46:56.944552+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -49,6 +49,7 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
+- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -157,6 +158,7 @@ payload:
 - +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
+- +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
