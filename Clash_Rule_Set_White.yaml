@@ -1,4 +1,4 @@
-# 更新时间：2025-12-03 08:46:56.944552+08:00
+# 更新时间：2025-12-04 08:47:59.001990+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -48,7 +48,6 @@ payload:
 - +.cutcaptcha.com
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
-- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -73,6 +72,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -152,6 +152,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
