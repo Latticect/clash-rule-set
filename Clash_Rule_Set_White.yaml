@@ -1,4 +1,4 @@
-# 更新时间：2025-12-04 08:47:59.001990+08:00
+# 更新时间：2025-12-05 08:47:53.760169+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -48,6 +48,7 @@ payload:
 - +.cutcaptcha.com
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
+- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -126,7 +127,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
