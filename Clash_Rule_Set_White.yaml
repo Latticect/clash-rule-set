@@ -1,4 +1,4 @@
-# 更新时间：2025-12-09 08:47:41.467488+08:00
+# 更新时间：2025-12-10 08:50:05.756883+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,7 +11,6 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -139,7 +138,6 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
-- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
