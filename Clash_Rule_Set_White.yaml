@@ -1,4 +1,4 @@
-# 更新时间：2025-12-12 08:49:29.407800+08:00
+# 更新时间：2025-12-13 08:45:35.070021+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -19,7 +19,6 @@ payload:
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.click.appcast.io
-- +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
 - +.click.avs.io
@@ -27,7 +26,6 @@ payload:
 - +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
-- +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
@@ -64,6 +62,7 @@ payload:
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
+- +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
@@ -82,7 +81,6 @@ payload:
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
-- +.hidive.com
 - +.href.li
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
@@ -91,6 +89,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -118,7 +117,6 @@ payload:
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
-- +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
 - +.c.office.com
 - +.sgqcvfjvr.onet.pl
@@ -129,10 +127,10 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
+- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -148,14 +146,18 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
+- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
-- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
+- +.obituaries.therecord.com
+- +.obituaries.thestar.com
 - +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
@@ -163,7 +165,6 @@ payload:
 - +.img.ads.tvb.com
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
-- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
