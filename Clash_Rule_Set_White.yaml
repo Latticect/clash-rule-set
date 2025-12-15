@@ -1,10 +1,9 @@
-# 更新时间：2025-12-14 08:53:50.788584+08:00
+# 更新时间：2025-12-15 08:52:23.702845+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -83,13 +82,13 @@ payload:
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
-- +.hidive.com
-- +.id.i2i.jp
+- +.href.li
 - +.marketing.net.idealo-partner.com
 - +.x2.ifengimg.com
 - +.prod.impartner.live
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
+- +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
@@ -134,6 +133,7 @@ payload:
 - +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
+- +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
@@ -155,7 +155,6 @@ payload:
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
-- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
@@ -168,7 +167,6 @@ payload:
 - +.img.ads.tvb.com
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
-- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
