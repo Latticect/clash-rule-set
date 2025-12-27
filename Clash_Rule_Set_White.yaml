@@ -1,9 +1,10 @@
-# 更新时间：2025-12-26 08:50:16.097233+08:00
+# 更新时间：2025-12-27 08:48:08.623001+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
+- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -11,7 +12,6 @@ payload:
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
-- +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
@@ -41,6 +41,7 @@ payload:
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
+- +.data.orders.costco.com
 - +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
@@ -75,7 +76,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.www.googleadservices.com
+- +.developers.google.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -103,6 +104,7 @@ payload:
 - +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
+- +.link.meet5.net
 - +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
@@ -146,8 +148,8 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
