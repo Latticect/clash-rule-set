@@ -1,4 +1,4 @@
-# 更新时间：2025-12-31 08:51:50.995409+08:00
+# 更新时间：2026-01-01 08:57:00.696113+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,6 +11,7 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -29,7 +30,6 @@ payload:
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
-- +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
@@ -77,6 +77,7 @@ payload:
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
 - +.developers.google.com
+- +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -89,6 +90,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -114,7 +116,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
@@ -124,8 +125,6 @@ payload:
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
-- +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -138,6 +137,7 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
+- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
@@ -174,6 +174,5 @@ payload:
 - +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
-- +.s1.wp.com
 - +.redirect.appmetrica.yandex.com
 - +.app-advertise.zhihuishu.com
