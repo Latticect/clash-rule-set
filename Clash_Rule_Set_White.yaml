@@ -1,4 +1,4 @@
-# 更新时间：2026-01-05 08:56:02.362969+08:00
+# 更新时间：2026-01-06 08:51:24.225512+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -50,6 +50,7 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
+- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -86,7 +87,6 @@ payload:
 - +.href.li
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
-- +.x2.ifengimg.com
 - +.prod.impartner.live
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
@@ -116,7 +116,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -132,6 +131,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -155,6 +155,7 @@ payload:
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
+- +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
