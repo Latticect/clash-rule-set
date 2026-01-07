@@ -1,4 +1,4 @@
-# 更新时间：2026-01-06 08:51:24.225512+08:00
+# 更新时间：2026-01-07 08:51:23.378228+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,7 +11,6 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -50,7 +49,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -58,6 +56,7 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
+- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -79,7 +78,6 @@ payload:
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
 - +.developers.google.com
-- +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -87,6 +85,7 @@ payload:
 - +.href.li
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
+- +.x2.ifengimg.com
 - +.prod.impartner.live
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
@@ -114,7 +113,6 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
@@ -153,9 +151,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
-- +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
