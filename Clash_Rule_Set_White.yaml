@@ -1,4 +1,4 @@
-# 更新时间：2026-01-16 08:52:31.089905+08:00
+# 更新时间：2026-01-17 08:49:43.279784+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -34,6 +34,9 @@ payload:
 - +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
+- +.wwwimage-tve.cbsstatic.com
+- +.chaturbate.com
+- +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
@@ -41,7 +44,6 @@ payload:
 - +.data.digital.costco.com
 - +.data.orders.costco.com
 - +.click.cptrack.de
-- +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
@@ -55,7 +57,6 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
-- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -71,12 +72,12 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
 - +.developers.google.com
+- +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -84,6 +85,7 @@ payload:
 - +.href.li
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
+- +.x2.ifengimg.com
 - +.prod.impartner.live
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
@@ -128,7 +130,6 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -152,7 +153,6 @@ payload:
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
-- +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
