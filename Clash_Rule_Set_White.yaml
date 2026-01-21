@@ -1,4 +1,4 @@
-# 更新时间：2026-01-20 08:50:45.541089+08:00
+# 更新时间：2026-01-21 08:53:09.607135+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -18,6 +18,7 @@ payload:
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
+- +.ssai.aniview.com
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
@@ -80,6 +81,7 @@ payload:
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
 - +.developers.google.com
+- +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -92,6 +94,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -133,7 +136,6 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
