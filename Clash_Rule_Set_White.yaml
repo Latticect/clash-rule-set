@@ -1,4 +1,4 @@
-# 更新时间：2026-01-21 08:53:09.607135+08:00
+# 更新时间：2026-01-22 08:51:06.496545+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,13 +11,11 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
-- +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
 - +.click.appcast.io
 - +.artifactory.appodeal.com
@@ -65,7 +63,6 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
@@ -120,7 +117,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -136,6 +132,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -155,7 +152,6 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
-- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
