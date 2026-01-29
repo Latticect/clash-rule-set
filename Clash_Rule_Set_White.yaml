@@ -1,4 +1,4 @@
-# 更新时间：2026-01-28 08:52:37.352464+08:00
+# 更新时间：2026-01-29 08:59:44.823340+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -11,6 +11,7 @@ payload:
 - +.reports.adguard.com
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -21,6 +22,7 @@ payload:
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
+- +.cdn.atmedia.hu
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
@@ -32,6 +34,7 @@ payload:
 - +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
+- +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.cindyholbrook.lpages.co
@@ -49,6 +52,7 @@ payload:
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
+- +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
 - +.refer.discover.com
@@ -79,6 +83,7 @@ payload:
 - +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
+- +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
 - +.href.li
@@ -122,13 +127,16 @@ payload:
 - +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
 - +.link.nzz.ch
+- +.c.office.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -150,6 +158,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
@@ -160,10 +169,13 @@ payload:
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
+- +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
