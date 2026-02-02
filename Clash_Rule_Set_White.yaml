@@ -1,4 +1,4 @@
-# 更新时间：2026-02-01 09:10:31.179668+08:00
+# 更新时间：2026-02-02 09:03:38.264351+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -23,8 +23,6 @@ payload:
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
-- +.click.avs.io
-- +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
@@ -36,21 +34,16 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
-- +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
 - +.data.orders.costco.com
-- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
-- +.acs-m.daraz.com.bd
-- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -104,7 +97,6 @@ payload:
 - +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
-- +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
 - +.admin.mailchimp.com
@@ -120,7 +112,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -162,7 +153,6 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
-- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -170,7 +160,6 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
-- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
