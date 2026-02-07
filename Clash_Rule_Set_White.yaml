@@ -1,4 +1,4 @@
-# 更新时间：2026-02-06 08:59:30.758808+08:00
+# 更新时间：2026-02-07 08:59:01.252846+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -90,17 +90,14 @@ payload:
 - +.id.i2i.jp
 - +.marketing.net.idealo-partner.com
 - +.x2.ifengimg.com
-- +.prod.impartner.live
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
-- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
-- +.leechers-paradise.org
 - +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
@@ -120,6 +117,7 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -131,7 +129,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -155,11 +152,9 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
-- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
-- +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
