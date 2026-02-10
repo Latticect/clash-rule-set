@@ -1,4 +1,4 @@
-# 更新时间：2026-02-09 09:05:44.202865+08:00
+# 更新时间：2026-02-10 09:14:05.096876+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -45,6 +45,7 @@ payload:
 - +.data.digital.costco.com
 - +.data.orders.costco.com
 - +.click.cptrack.de
+- +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
@@ -66,6 +67,8 @@ payload:
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
+- +.f-gear.ec-optimizer.com
+- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -91,6 +94,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -104,6 +108,7 @@ payload:
 - +.logentries.com
 - +.admin.mailchimp.com
 - +.manwa.me
+- +.taiga.maven.io
 - +.link.meet5.net
 - +.action.metaffiliation.com
 - +.log.mmstat.com
@@ -114,7 +119,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -130,6 +134,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -149,7 +154,6 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
-- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
@@ -167,8 +171,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
