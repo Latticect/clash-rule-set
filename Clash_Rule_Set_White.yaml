@@ -1,4 +1,4 @@
-# 更新时间：2026-02-11 09:11:58.940535+08:00
+# 更新时间：2026-02-12 09:04:31.042492+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,6 +9,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -68,7 +69,6 @@ payload:
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
-- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -94,6 +94,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -154,6 +155,7 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
