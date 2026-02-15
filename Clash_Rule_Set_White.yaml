@@ -1,4 +1,4 @@
-# 更新时间：2026-02-14 09:01:30.214884+08:00
+# 更新时间：2026-02-15 09:06:40.161682+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,6 +9,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -28,6 +29,7 @@ payload:
 - +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
+- +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
@@ -58,6 +60,7 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
+- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -66,7 +69,6 @@ payload:
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
-- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -123,10 +125,12 @@ payload:
 - +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
 - +.link.nzz.ch
+- +.c.office.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -150,6 +154,7 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
