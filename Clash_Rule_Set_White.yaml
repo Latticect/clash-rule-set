@@ -1,13 +1,15 @@
-# 更新时间：2026-02-17 09:03:28.063247+08:00
+# 更新时间：2026-02-18 09:05:48.522387+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
+- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -15,6 +17,7 @@ payload:
 - +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
+- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
 - +.click.appcast.io
@@ -23,6 +26,7 @@ payload:
 - +.cdn.atmedia.hu
 - +.click.avs.io
 - +.awin1.com
+- +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
@@ -48,7 +52,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -66,6 +69,7 @@ payload:
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
+- +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
@@ -76,6 +80,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
+- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -89,7 +94,6 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
-- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -126,6 +130,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -133,7 +138,6 @@ payload:
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
-- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -149,7 +153,6 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
-- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.gs.statcounter.com
 - +.www.statcounter.com
@@ -166,6 +169,8 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
