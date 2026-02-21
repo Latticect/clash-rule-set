@@ -1,14 +1,14 @@
-# 更新时间：2026-02-20 09:00:46.724248+08:00
+# 更新时间：2026-02-21 08:59:34.264890+08:00
 
 payload:
 - +.alllaw.112.2o7.net
+- +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -23,6 +23,7 @@ payload:
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
+- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -36,12 +37,14 @@ payload:
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
+- +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
 - +.data.orders.costco.com
+- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
@@ -67,6 +70,7 @@ payload:
 - +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
+- +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
@@ -89,6 +93,7 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
+- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -97,6 +102,7 @@ payload:
 - +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
+- +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
 - +.admin.mailchimp.com
@@ -112,7 +118,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -128,6 +133,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -161,6 +167,7 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
+- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
