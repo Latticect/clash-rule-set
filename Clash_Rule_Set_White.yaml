@@ -1,10 +1,9 @@
-# 更新时间：2026-02-22 09:03:43.520888+08:00
+# 更新时间：2026-02-23 09:03:48.667263+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -29,7 +28,6 @@ payload:
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
-- +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
@@ -51,7 +49,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -77,7 +74,6 @@ payload:
 - +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
-- +.str.hit.gemius.pl
 - +.links.getblueshift.com
 - +.developers.google.com
 - +.www.googleadservices.com
@@ -99,6 +95,7 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -114,9 +111,8 @@ payload:
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
-- +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -132,7 +128,6 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -143,7 +138,6 @@ payload:
 - +.tr.rdrtr.com
 - +.go.redirectingat.com
 - +.remembering.ca
-- +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
@@ -160,7 +154,6 @@ payload:
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
-- +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
@@ -170,8 +163,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
