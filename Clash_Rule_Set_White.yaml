@@ -1,4 +1,4 @@
-# 更新时间：2026-02-26 09:00:50.835923+08:00
+# 更新时间：2026-02-27 09:01:04.807673+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,9 +9,9 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -26,7 +26,7 @@ payload:
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
-- +.js.monitor.azure.com
+- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
@@ -79,7 +79,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.www.googleadservices.com
+- +.developers.google.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
@@ -92,7 +92,6 @@ payload:
 - +.content.ingbank.pl
 - +.cmp.inmobi.com
 - +.ia.hit.interia.pl
-- +.www.jdoqocy.com
 - +.api.karte.io
 - +.ad.kazakinfo.com
 - +.advert.kf5.com
@@ -117,7 +116,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -141,6 +139,7 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
+- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
