@@ -1,4 +1,4 @@
-# 更新时间：2026-03-03 09:04:27.967189+08:00
+# 更新时间：2026-03-04 09:00:36.521237+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,6 +9,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -49,6 +50,8 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
+- +.acs-m.daraz.com.bd
+- +.acs-m.daraz.pk
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -56,7 +59,6 @@ payload:
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
-- +.www.dogpile.com
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
@@ -72,7 +74,6 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
-- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -113,8 +114,8 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -149,6 +150,7 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
@@ -165,8 +167,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
