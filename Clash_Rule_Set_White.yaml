@@ -1,4 +1,4 @@
-# 更新时间：2026-03-08 09:03:07.245187+08:00
+# 更新时间：2026-03-09 09:03:23.674104+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -100,6 +100,7 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -115,7 +116,6 @@ payload:
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
-- +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.oneline.nextday.media
@@ -144,7 +144,6 @@ payload:
 - +.tr.rdrtr.com
 - +.go.redirectingat.com
 - +.remembering.ca
-- +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
@@ -155,7 +154,6 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
@@ -171,6 +169,8 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
