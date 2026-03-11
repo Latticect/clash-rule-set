@@ -1,4 +1,4 @@
-# 更新时间：2026-03-10 08:57:46.257140+08:00
+# 更新时间：2026-03-11 08:58:56.384746+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -33,6 +33,7 @@ payload:
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
+- +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
@@ -48,7 +49,6 @@ payload:
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
-- +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
@@ -68,6 +68,7 @@ payload:
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
+- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -81,7 +82,6 @@ payload:
 - +.links.getblueshift.com
 - +.developers.google.com
 - +.www.googleadservices.com
-- +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
@@ -99,12 +99,12 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
-- +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
@@ -131,7 +131,6 @@ payload:
 - +.s.optnx.com
 - +.ad.ourgame.com
 - +.redir.ownpage.fr
-- +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
 - +.validate.perfdrive.com
@@ -155,6 +154,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
