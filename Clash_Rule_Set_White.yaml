@@ -1,4 +1,4 @@
-# 更新时间：2026-03-11 08:58:56.384746+08:00
+# 更新时间：2026-03-12 08:56:16.114262+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,12 +9,10 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
-- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -27,8 +25,6 @@ payload:
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
-- +.js.monitor.azure.com
-- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
@@ -49,6 +45,7 @@ payload:
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
+- +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
@@ -82,6 +79,7 @@ payload:
 - +.links.getblueshift.com
 - +.developers.google.com
 - +.www.googleadservices.com
+- +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
@@ -99,12 +97,12 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
-- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
+- +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
@@ -117,7 +115,6 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
-- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -131,8 +128,8 @@ payload:
 - +.s.optnx.com
 - +.ad.ourgame.com
 - +.redir.ownpage.fr
+- +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
