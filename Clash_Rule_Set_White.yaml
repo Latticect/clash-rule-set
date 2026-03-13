@@ -1,4 +1,4 @@
-# 更新时间：2026-03-12 08:56:16.114262+08:00
+# 更新时间：2026-03-13 09:01:40.259703+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -13,6 +13,7 @@ payload:
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
+- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -25,6 +26,8 @@ payload:
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
+- +.js.monitor.azure.com
+- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
@@ -48,7 +51,6 @@ payload:
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
-- +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
@@ -97,6 +99,7 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -126,10 +129,10 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -151,7 +154,6 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
@@ -167,8 +169,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
