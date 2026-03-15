@@ -1,4 +1,4 @@
-# 更新时间：2026-03-14 09:00:45.917578+08:00
+# 更新时间：2026-03-15 09:11:27.490743+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -13,8 +13,6 @@ payload:
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
-- +.feed.adrelayer.com
-- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -28,6 +26,7 @@ payload:
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
+- +.captcha.su.baidu.com
 - +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
@@ -45,7 +44,6 @@ payload:
 - +.data.digital.costco.com
 - +.data.orders.costco.com
 - +.click.cptrack.de
-- +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
@@ -68,6 +66,7 @@ payload:
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
+- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -105,9 +104,7 @@ payload:
 - +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
-- +.admin.mailchimp.com
 - +.manwa.me
-- +.taiga.maven.io
 - +.link.meet5.net
 - +.action.metaffiliation.com
 - +.log.mmstat.com
