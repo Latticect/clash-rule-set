@@ -1,4 +1,4 @@
-# 更新时间：2026-03-18 09:07:25.678302+08:00
+# 更新时间：2026-03-19 09:06:47.442248+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,10 +9,12 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
+- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -46,6 +48,7 @@ payload:
 - +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
+- +.cutcaptcha.com
 - +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
@@ -78,6 +81,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
+- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -93,9 +97,11 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
+- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -126,6 +132,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
