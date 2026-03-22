@@ -1,4 +1,4 @@
-# 更新时间：2026-03-21 08:59:11.484137+08:00
+# 更新时间：2026-03-22 09:06:29.004683+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,7 +12,6 @@ payload:
 - +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -23,6 +22,7 @@ payload:
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
+- +.cdn.atmedia.hu
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
@@ -34,6 +34,7 @@ payload:
 - +.s.bluecore.com
 - +.stats.britishbaseball.org.uk
 - +.tms.capitalone.com
+- +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
 - +.cindyholbrook.lpages.co
@@ -48,9 +49,8 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
-- +.acs-m.daraz.com.bd
-- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
+- +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
 - +.refer.discover.com
@@ -63,9 +63,9 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
+- +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
@@ -77,9 +77,9 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
+- +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
 - +.href.li
@@ -96,6 +96,7 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -105,7 +106,6 @@ payload:
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
-- +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
@@ -141,6 +141,7 @@ payload:
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
+- +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
 - +.go.scorptec.com.au
@@ -160,12 +161,11 @@ payload:
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
+- +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
