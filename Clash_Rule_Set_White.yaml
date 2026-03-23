@@ -1,17 +1,16 @@
-# 更新时间：2026-03-22 09:06:29.004683+08:00
+# 更新时间：2026-03-23 09:08:08.593452+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -19,11 +18,9 @@ payload:
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
-- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
-- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -36,7 +33,6 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
 - +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
@@ -44,11 +40,12 @@ payload:
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
 - +.data.orders.costco.com
-- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
+- +.acs-m.daraz.com.bd
+- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -63,12 +60,12 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
+- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
 - +.partner.everydays.de
-- +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
@@ -77,6 +74,7 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
+- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -106,6 +104,7 @@ payload:
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
+- +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
@@ -126,9 +125,11 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -154,7 +155,6 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
-- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -162,15 +162,15 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
-- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
-- +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
 - +.s1.wp.com
