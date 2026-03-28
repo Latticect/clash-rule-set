@@ -1,4 +1,4 @@
-# 更新时间：2026-03-27 09:10:51.057004+08:00
+# 更新时间：2026-03-28 09:04:45.658552+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,7 +12,6 @@ payload:
 - +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
-- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -23,11 +22,13 @@ payload:
 - +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
+- +.cdn.atmedia.hu
 - +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
+- +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
@@ -51,6 +52,7 @@ payload:
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
+- +.cdn.datatables.net
 - +.sbs.demdex.net
 - +.media-consumer365.desigual.com
 - +.refer.discover.com
@@ -81,6 +83,7 @@ payload:
 - +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
+- +.cdn.duurzaam.greenchoice.nl
 - +.health.halodoc.com
 - +.hidive.com
 - +.href.li
@@ -123,6 +126,7 @@ payload:
 - +.forum.notebookreview.com
 - +.cloud.notification-naviextras.com
 - +.link.nzz.ch
+- +.c.office.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
@@ -143,6 +147,7 @@ payload:
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
+- +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
 - +.go.scorptec.com.au
@@ -162,6 +167,7 @@ payload:
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
+- +.catchup.thisisdax.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
