@@ -1,4 +1,4 @@
-# 更新时间：2026-03-28 09:04:45.658552+08:00
+# 更新时间：2026-03-29 09:13:56.031215+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,6 +12,7 @@ payload:
 - +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
