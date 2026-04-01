@@ -1,4 +1,4 @@
-# 更新时间：2026-03-31 09:12:44.842448+08:00
+# 更新时间：2026-04-01 09:19:04.183741+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,11 +9,11 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
-- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
+- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -119,6 +119,7 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -156,7 +157,6 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
