@@ -1,4 +1,4 @@
-# 更新时间：2026-04-02 09:09:29.362996+08:00
+# 更新时间：2026-04-03 09:12:00.495769+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,6 +12,7 @@ payload:
 - +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.a.adwolf.ru
 - +.afi-b.com
@@ -49,8 +50,6 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
-- +.acs-m.daraz.com.bd
-- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -100,6 +99,7 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
+- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -109,7 +109,6 @@ payload:
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
-- +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
