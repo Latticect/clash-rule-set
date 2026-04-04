@@ -1,4 +1,4 @@
-# 更新时间：2026-04-03 09:12:00.495769+08:00
+# 更新时间：2026-04-04 09:06:04.340678+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -14,7 +14,6 @@ payload:
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
-- +.a.adwolf.ru
 - +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
@@ -50,6 +49,8 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
+- +.acs-m.daraz.com.bd
+- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -99,7 +100,6 @@ payload:
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
-- +.trk.ecomm.lenovo.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
@@ -109,6 +109,7 @@ payload:
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
+- +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
@@ -133,6 +134,7 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
