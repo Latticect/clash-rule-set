@@ -1,4 +1,4 @@
-# 更新时间：2026-04-10 09:14:22.851505+08:00
+# 更新时间：2026-04-11 09:10:02.133407+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,6 +9,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -79,7 +80,6 @@ payload:
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
 - +.links.getblueshift.com
-- +.developers.google.com
 - +.www.googleadservices.com
 - +.promo.gramedia.com
 - +.cdn.duurzaam.greenchoice.nl
@@ -116,8 +116,8 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -126,6 +126,7 @@ payload:
 - +.link.nzz.ch
 - +.c.office.com
 - +.sgqcvfjvr.onet.pl
+- +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
 - +.ad.ourgame.com
@@ -136,7 +137,6 @@ payload:
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
-- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -155,11 +155,9 @@ payload:
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
-- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
-- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
@@ -173,7 +171,6 @@ payload:
 - +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
-- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
