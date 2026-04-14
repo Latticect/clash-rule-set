@@ -1,4 +1,4 @@
-# 更新时间：2026-04-13 09:20:28.609386+08:00
+# 更新时间：2026-04-14 09:19:02.250696+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -12,6 +12,7 @@ payload:
 - +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
+- +.go.adjust.com
 - +.feed.adrelayer.com
 - +.afi-b.com
 - +.analytics.amplitude.com
@@ -27,6 +28,7 @@ payload:
 - +.email.awscloud.com
 - +.js.monitor.azure.com
 - +.captcha.su.baidu.com
+- +.buyad.bi-xenon.cn
 - +.rd.bizrate.com
 - +.adv.bloop.info
 - +.s.bluecore.com
@@ -73,6 +75,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -128,12 +131,15 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
+- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -149,7 +155,10 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
+- +.sax.sina.com.cn
 - +.sobot.com
+- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
