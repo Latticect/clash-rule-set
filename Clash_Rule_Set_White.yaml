@@ -1,4 +1,4 @@
-# 更新时间：2026-04-18 09:12:29.193441+08:00
+# 更新时间：2026-04-19 09:21:34.094519+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -9,6 +9,7 @@ payload:
 - +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
+- +.injections.adguard.org
 - +.local.adguard.org
 - +.app.adjust.com
 - +.go.adjust.com
@@ -64,7 +65,6 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
@@ -117,6 +117,7 @@ payload:
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
 - +.webstatic.nero.com
+- +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
@@ -128,7 +129,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -152,6 +152,7 @@ payload:
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
+- +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
