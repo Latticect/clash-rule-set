@@ -1,4 +1,4 @@
-# 更新时间：2026-04-26 09:23:53.977046+08:00
+# 更新时间：2026-04-27 09:25:09.966896+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -61,7 +61,6 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
-- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
@@ -117,6 +116,7 @@ payload:
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
+- +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
@@ -130,6 +130,7 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -172,7 +173,6 @@ payload:
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
 - +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
