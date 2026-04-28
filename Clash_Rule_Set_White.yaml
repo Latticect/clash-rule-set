@@ -1,10 +1,9 @@
-# 更新时间：2026-04-27 09:25:09.966896+08:00
+# 更新时间：2026-04-28 09:44:15.069737+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -61,6 +60,7 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
+- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
@@ -130,11 +130,9 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
-- +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
@@ -143,25 +141,21 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
-- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
-- +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
 - +.sobot.com
-- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
-- +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
@@ -172,9 +166,7 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
 - +.content.viralize.tv
-- +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
