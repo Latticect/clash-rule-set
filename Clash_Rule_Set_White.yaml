@@ -1,4 +1,4 @@
-# 更新时间：2026-04-30 09:46:21.126205+08:00
+# 更新时间：2026-05-01 09:48:55.704778+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -75,6 +75,7 @@ payload:
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
+- +.smtp.focusgroupresearch.com
 - +.login.gaijin.net
 - +.tlh.gedidigital.it
 - +.str.hit.gemius.pl
@@ -132,11 +133,13 @@ payload:
 - +.s.optnx.com
 - +.ad.ourgame.com
 - +.redir.ownpage.fr
+- +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
 - +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
+- +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
@@ -154,6 +157,8 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
+- +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
