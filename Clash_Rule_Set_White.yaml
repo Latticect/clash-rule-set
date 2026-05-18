@@ -1,9 +1,10 @@
-# 更新时间：2026-05-17 09:51:26.351605+08:00
+# 更新时间：2026-05-18 10:00:41.648835+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
+- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -135,6 +136,8 @@ payload:
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
+- +.intersport.peerius.com
+- +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
@@ -155,13 +158,13 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
-- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
+- +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
