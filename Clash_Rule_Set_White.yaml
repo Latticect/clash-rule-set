@@ -1,4 +1,4 @@
-# 更新时间：2026-05-18 10:00:41.648835+08:00
+# 更新时间：2026-05-19 10:00:21.766837+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -49,8 +49,6 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
-- +.acs-m.daraz.com.bd
-- +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
@@ -65,7 +63,6 @@ payload:
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
 - +.proto2ad.durasite.net
-- +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
@@ -158,6 +155,7 @@ payload:
 - +.login.sendpulse.com
 - +.cs.silverpop.com
 - +.sax.sina.com.cn
+- +.sobot.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
