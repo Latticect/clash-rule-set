@@ -1,10 +1,9 @@
-# 更新时间：2026-05-20 09:59:42.846775+08:00
+# 更新时间：2026-05-21 09:59:09.460271+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -41,6 +40,7 @@ payload:
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
+- +.om-ssl.consorsbank.de
 - +.data.digital.costco.ca
 - +.data.digital.costco.com
 - +.data.orders.costco.com
@@ -49,7 +49,6 @@ payload:
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
-- +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
@@ -61,9 +60,7 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
-- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
-- +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
@@ -96,7 +93,6 @@ payload:
 - +.ia.hit.interia.pl
 - +.www.jdoqocy.com
 - +.api.karte.io
-- +.ad.kazakinfo.com
 - +.advert.kf5.com
 - +.learn.khanacademy.org
 - +.omsc.kpn.com
@@ -111,14 +107,12 @@ payload:
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
-- +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
 - +.cm-beacon.nakanohito.jp
 - +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
-- +.get.neofinancial.com
 - +.webstatic.nero.com
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
@@ -169,6 +163,7 @@ payload:
 - +.obituaries.therecord.com
 - +.obituaries.thestar.com
 - +.catchup.thisisdax.com
+- +.obituaries.toacorn.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
