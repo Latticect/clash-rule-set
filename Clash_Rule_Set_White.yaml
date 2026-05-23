@@ -1,4 +1,4 @@
-# 更新时间：2026-05-22 10:00:42.453170+08:00
+# 更新时间：2026-05-23 09:51:17.622368+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -115,8 +115,6 @@ payload:
 - +.action.metaffiliation.com
 - +.log.mmstat.com
 - +.link.morningbrew.com
-- +.cm-beacon.nakanohito.jp
-- +.cm-widget.nakanohito.jp
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
@@ -145,12 +143,14 @@ payload:
 - +.pt.afl.rakuten.co.jp
 - +.ref.rbauction.com
 - +.tr.rdrtr.com
+- +.go.redirectingat.com
 - +.remembering.ca
 - +.surveymyopinion.researchnow.com
 - +.stash.roistat.com
 - +.cdn.rozetka.com.ua
 - +.track.rutarget.ru
 - +.recommender.scarabresearch.com
+- +.go.scorptec.com.au
 - +.secureimage.securedataimages.com
 - +.a.sellpoint.net
 - +.login.sendpulse.com
@@ -158,6 +158,7 @@ payload:
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.gs.statcounter.com
+- +.www.statcounter.com
 - +.link.sylikes.com
 - +.click.simba.taobao.com
 - +.goto.target.com
