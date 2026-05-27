@@ -1,10 +1,9 @@
-# 更新时间：2026-05-26 09:55:51.162899+08:00
+# 更新时间：2026-05-27 10:04:35.364711+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
-- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -64,14 +63,12 @@ payload:
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
-- +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
-- +.partner.everydays.de
 - +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
@@ -120,7 +117,6 @@ payload:
 - +.support-beacon.nakanohito.jp
 - +.support-widget.nakanohito.jp
 - +.get.neofinancial.com
-- +.webstatic.nero.com
 - +.infra-api.newrelic.com
 - +.oneline.nextday.media
 - +.sedge.nfl.com
