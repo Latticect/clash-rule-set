@@ -1,4 +1,4 @@
-# 更新时间：2026-06-01 10:14:33.253631+08:00
+# 更新时间：2026-06-02 10:14:56.019156+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -16,7 +16,6 @@ payload:
 - +.feed.adrelayer.com
 - +.afi-b.com
 - +.analytics.amplitude.com
-- +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
 - +.click.appcast.io
@@ -62,9 +61,7 @@ payload:
 - +.api.docodoco.jp
 - +.www.dogpile.com
 - +.cj.dotomi.com
-- +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
-- +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
@@ -108,6 +105,7 @@ payload:
 - +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
+- +.data.notify.macys.com
 - +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
@@ -176,8 +174,6 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
-- +.vcentry2.valuecommerce.ne.jp
-- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
