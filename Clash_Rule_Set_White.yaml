@@ -1,9 +1,10 @@
-# 更新时间：2026-06-07 10:11:05.106143+08:00
+# 更新时间：2026-06-08 10:27:50.397013+08:00
 
 payload:
 - +.alllaw.112.2o7.net
 - +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
+- +.vitacost.122.2o7.net
 - +.px.a8.net
 - +.adblock.adguard.com
 - +.download.adguard.com
@@ -13,6 +14,7 @@ payload:
 - +.app.adjust.com
 - +.go.adjust.com
 - +.feed.adrelayer.com
+- +.afi-b.com
 - +.analytics.amplitude.com
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
@@ -133,7 +135,6 @@ payload:
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -176,6 +177,7 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
 - +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
