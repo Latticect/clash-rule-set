@@ -1,4 +1,4 @@
-# 更新时间：2026-06-17 10:30:13.446082+08:00
+# 更新时间：2026-06-18 10:27:46.379406+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -65,12 +65,14 @@ payload:
 - +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
+- +.wan.douyu.com
 - +.proto2ad.durasite.net
 - +.ac.ebis.ne.jp
 - +.daikoku.ebis.ne.jp
 - +.f-gear.ec-optimizer.com
 - +.itoya.ec-optimizer.com
 - +.email.elitedangerous.com
+- +.partner.everydays.de
 - +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
@@ -138,6 +140,7 @@ payload:
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
+- +.validate.perfdrive.com
 - +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
@@ -175,6 +178,8 @@ payload:
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
+- +.vcentry2.valuecommerce.ne.jp
+- +.vcentry3.valuecommerce.ne.jp
 - +.content.viralize.tv
 - +.goto.walmart.com
 - +.omniture.walmart.com
