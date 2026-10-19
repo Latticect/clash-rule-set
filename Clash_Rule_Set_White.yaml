@@ -1,12 +1,10 @@
-# 更新时间：2026-10-18 09:48:53.641153+08:00
+# 更新时间：2026-10-19 10:05:45.307901+08:00
 
 payload:
 - +.alllaw.112.2o7.net
-- +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
-- +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
 - +.injections.adguard.org
@@ -20,11 +18,9 @@ payload:
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
-- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
-- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -36,21 +32,14 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
-- +.chaturbate.com
-- +.cindyholbrook.lpages.co
-- +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.om-ssl.consorsbank.de
-- +.data.digital.costco.ca
 - +.data.orders.costco.ca
-- +.data.digital.costco.com
 - +.data.orders.costco.com
-- +.click.cptrack.de
 - +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
-- +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
@@ -62,7 +51,6 @@ payload:
 - +.banner.dna.fi
 - +.api.docodoco.jp
 - +.www.dogpile.com
-- +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
@@ -74,7 +62,6 @@ payload:
 - +.emails.educause.edu
 - +.email.elitedangerous.com
 - +.partner.everydays.de
-- +.click.virt.exacttarget.com
 - +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
@@ -109,11 +96,9 @@ payload:
 - +.unsubscribe.lhinsights.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
-- +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
 - +.data.notify.macys.com
-- +.admin.mailchimp.com
 - +.manwa.me
 - +.taiga.maven.io
 - +.link.meet5.net
@@ -131,16 +116,13 @@ payload:
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
 - +.forum.notebookreview.com
-- +.cloud.notification-naviextras.com
 - +.link.nzz.ch
 - +.partner.o2online.de
-- +.c.office.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
 - +.cmp.osano.com
-- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
@@ -171,7 +153,6 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
-- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
@@ -181,7 +162,6 @@ payload:
 - +.catchup.thisisdax.com
 - +.data.promo.timhortons.ca
 - +.obituaries.toacorn.com
-- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
@@ -192,7 +172,6 @@ payload:
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
-- +.clickattr.wayup.com
 - +.track.webgains.com
 - +.anwb.webpower.eu
 - +.belgium.wolterskluwer.com
