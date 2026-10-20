@@ -1,7 +1,8 @@
-# 更新时间：2026-10-19 10:05:45.307901+08:00
+# 更新时间：2026-10-20 10:21:57.027252+08:00
 
 payload:
 - +.alllaw.112.2o7.net
+- +.citiintl.122.2o7.net
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
@@ -18,9 +19,11 @@ payload:
 - +.79423.analytics.edgekey.net
 - +.ma135-r.analytics.edgekey.net
 - +.ssai.aniview.com
+- +.click.appcast.io
 - +.artifactory.appodeal.com
 - +.app.appsflyer.com
 - +.cdn.atmedia.hu
+- +.click.avs.io
 - +.awin1.com
 - +.email.awscloud.com
 - +.js.monitor.azure.com
@@ -32,25 +35,30 @@ payload:
 - +.tms.capitalone.com
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
+- +.chaturbate.com
+- +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
 - +.om-ssl.consorsbank.de
+- +.data.digital.costco.ca
 - +.data.orders.costco.ca
+- +.data.digital.costco.com
 - +.data.orders.costco.com
-- +.tags.crwdcntrl.net
+- +.click.cptrack.de
 - +.e.customeriomail.com
 - +.cutcaptcha.com
+- +.admin.dable.io
 - +.acs-m.daraz.com.bd
 - +.acs-m.daraz.pk
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
-- +.media-consumer365.desigual.com
 - +.refer.discover.com
 - +.redirect.disqus.com
 - +.banner.dna.fi
 - +.api.docodoco.jp
 - +.www.dogpile.com
+- +.cj.dotomi.com
 - +.5471782.fls.doubleclick.net
 - +.pagead.l.doubleclick.net
 - +.wan.douyu.com
@@ -62,7 +70,7 @@ payload:
 - +.emails.educause.edu
 - +.email.elitedangerous.com
 - +.partner.everydays.de
-- +.public-cis.exponea.com
+- +.click.virt.exacttarget.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
 - +.smtp.focusgroupresearch.com
@@ -93,9 +101,9 @@ payload:
 - +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.trk.ecomm.lenovo.com
-- +.unsubscribe.lhinsights.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
+- +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
 - +.data.notify.macys.com
@@ -123,12 +131,12 @@ payload:
 - +.nineto5mac-d.openx.net
 - +.s.optnx.com
 - +.cmp.osano.com
+- +.ad.ourgame.com
 - +.redir.ownpage.fr
 - +.official.paymaya.com
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
 - +.validate.perfdrive.com
-- +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
@@ -153,15 +161,15 @@ payload:
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
+- +.click.simba.taobao.com
 - +.goto.target.com
 - +.radiofrance.targetspot.com
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
-- +.obituaries.thestar.com
 - +.catchup.thisisdax.com
 - +.data.promo.timhortons.ca
-- +.obituaries.toacorn.com
+- +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
 - +.img.ads.tvb.com
@@ -172,7 +180,7 @@ payload:
 - +.goto.walmart.com
 - +.omniture.walmart.com
 - +.news.warhammer.com
-- +.track.webgains.com
+- +.clickattr.wayup.com
 - +.anwb.webpower.eu
 - +.belgium.wolterskluwer.com
 - +.s1.wp.com
