@@ -1,4 +1,4 @@
-# 更新时间：2026-10-20 10:21:57.027252+08:00
+# 更新时间：2026-10-21 10:15:26.432715+08:00
 
 payload:
 - +.alllaw.112.2o7.net
@@ -6,6 +6,7 @@ payload:
 - +.puma.112.2o7.net
 - +.vitacost.122.2o7.net
 - +.px.a8.net
+- +.adblock.adguard.com
 - +.download.adguard.com
 - +.reports.adguard.com
 - +.injections.adguard.org
@@ -36,6 +37,7 @@ payload:
 - +.cbsi.map.fastly.net
 - +.wwwimage-tve.cbsstatic.com
 - +.chaturbate.com
+- +.cindyholbrook.lpages.co
 - +.classliving.lpages.co
 - +.netatmo.commander1.com
 - +.puzzles-games-api.gp-prod.conde.digital
@@ -45,6 +47,7 @@ payload:
 - +.data.digital.costco.com
 - +.data.orders.costco.com
 - +.click.cptrack.de
+- +.tags.crwdcntrl.net
 - +.e.customeriomail.com
 - +.cutcaptcha.com
 - +.admin.dable.io
@@ -53,6 +56,7 @@ payload:
 - +.www.datadoghq-browser-agent.com
 - +.cdn.datatables.net
 - +.sbs.demdex.net
+- +.media-consumer365.desigual.com
 - +.refer.discover.com
 - +.redirect.disqus.com
 - +.banner.dna.fi
@@ -71,6 +75,7 @@ payload:
 - +.email.elitedangerous.com
 - +.partner.everydays.de
 - +.click.virt.exacttarget.com
+- +.public-cis.exponea.com
 - +.gate.first-id.fr
 - +.home.focusatwill.com
 - +.smtp.focusgroupresearch.com
@@ -101,14 +106,15 @@ payload:
 - +.omsc.kpn.com
 - +.leechers-paradise.org
 - +.trk.ecomm.lenovo.com
+- +.unsubscribe.lhinsights.com
 - +.torimochi.line-apps.com
 - +.oa.tr.line.me
 - +.cl.link-ag.net
 - +.linka.page
 - +.logentries.com
 - +.data.notify.macys.com
+- +.admin.mailchimp.com
 - +.manwa.me
-- +.taiga.maven.io
 - +.link.meet5.net
 - +.action.metaffiliation.com
 - +.log.mmstat.com
@@ -123,9 +129,9 @@ payload:
 - +.oneline.nextday.media
 - +.sedge.nfl.com
 - +.res.ads.nicovideo.jp
-- +.forum.notebookreview.com
 - +.link.nzz.ch
 - +.partner.o2online.de
+- +.c.office.com
 - +.sgqcvfjvr.onet.pl
 - +.onl.bz
 - +.nineto5mac-d.openx.net
@@ -137,6 +143,7 @@ payload:
 - +.crm-cdn.peek-cloppenburg.com
 - +.intersport.peerius.com
 - +.validate.perfdrive.com
+- +.pgpartner.com
 - +.pics.porn300.com
 - +.grp07.ias.rakuten.co.jp
 - +.hb.afl.rakuten.co.jp
@@ -158,6 +165,7 @@ payload:
 - +.sax.sina.com.cn
 - +.sobot.com
 - +.spartaindependent.com
+- +.obituaries.startribune.com
 - +.gs.statcounter.com
 - +.www.statcounter.com
 - +.link.sylikes.com
@@ -167,8 +175,10 @@ payload:
 - +.my.tealiumiq.com
 - +.links.e.theatlantic.com
 - +.obituaries.therecord.com
+- +.obituaries.thestar.com
 - +.catchup.thisisdax.com
 - +.data.promo.timhortons.ca
+- +.obituaries.toacorn.com
 - +.click.trafficguard.ai
 - +.ap01.records.in.treasuredata.com
 - +.api.ads.tvb.com
@@ -181,6 +191,7 @@ payload:
 - +.omniture.walmart.com
 - +.news.warhammer.com
 - +.clickattr.wayup.com
+- +.track.webgains.com
 - +.anwb.webpower.eu
 - +.belgium.wolterskluwer.com
 - +.s1.wp.com
